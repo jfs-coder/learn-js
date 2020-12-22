@@ -1,4 +1,4 @@
-// Let's learn about varaibles
+// Let's learn about variables
 
 var fullName = "Bob Smith";
 
